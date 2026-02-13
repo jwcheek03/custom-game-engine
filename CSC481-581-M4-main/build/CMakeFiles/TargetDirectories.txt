@@ -1,0 +1,4 @@
+C:/Users/Ultra/OneDrive/Desktop/CSC 481/CSC481-581-M4-main/build/CMakeFiles/server.dir
+C:/Users/Ultra/OneDrive/Desktop/CSC 481/CSC481-581-M4-main/build/CMakeFiles/client.dir
+C:/Users/Ultra/OneDrive/Desktop/CSC 481/CSC481-581-M4-main/build/CMakeFiles/edit_cache.dir
+C:/Users/Ultra/OneDrive/Desktop/CSC 481/CSC481-581-M4-main/build/CMakeFiles/rebuild_cache.dir

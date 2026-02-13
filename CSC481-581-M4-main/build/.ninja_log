@@ -1,0 +1,6 @@
+# ninja log v7
+13	3435	7791337855199581	CMakeFiles/client.dir/src/client.cpp.obj	ce579312d9bad49b
+6	3450	7791337855123911	CMakeFiles/server.dir/src/server.cpp.obj	b77c908a7fa4496e
+3439	3670	7791337889445980	client.exe	2c7f7b94442d18ee
+3454	3672	7791337889599242	server.exe	9cbdca977bbaedcf
+43	1025	7791339840747422	server.exe	9cbdca977bbaedcf
